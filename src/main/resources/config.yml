@@ -1,0 +1,4 @@
+ping:
+  message: "pong"
+  prefix: "&7[Ping] "
+  permission: "townymenus.ping"
